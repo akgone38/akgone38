@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aaditya Kumar 👋 
+### Agentic AI Engineer & Senior Backend Architect
 
-<!--
-**akgone38/akgone38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building production-grade **Agentic AI systems**, autonomous multi-agent workflows, and advanced RAG architectures that automate complex business operations. Instead of simple chat wrappers, I engineer stateful, self-correcting agent swarms that seamlessly execute business logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core AI & Engineering Stack
+
+- **Orchestration & Frameworks:** LangGraph, CrewAI, LangChain, n8n (Self-hosted & Cloud)
+- **Agent Design Patterns:** Cyclic computational graphs, tool calling, human-in-the-loop gates, self-correction loops
+- **Data & Retrieval (RAG):** Semantic chunking, hybrid vector search (Pinecone, Qdrant), PostgreSQL, MongoDB
+- **Production Backend:** Asynchronous Python (FastAPI, Pydantic), Node.js, AWS Serverless (Lambda, Bedrock)
+
+---
+
+### 🚀 Featured Agentic AI Repositories
+
+* 🤖 **[simple-agents](https://github.com/akgone38/simple-agents)** – A lightweight framework exploring core autonomous agent design, tool integration, and planning capabilities.
+* 📈 **[investment-advisor-agent](https://github.com/akgone38/investment-advisor-agent)** – A specialized multi-agent workflow leveraging financial data analysis and agent reasoning loops.
+* 🔍 **[web-search-agent](https://github.com/akgone38/web-search-agent)** – Autonomous web-scraping and context-aware synthesis agent built for real-time research.
+
+---
+
+### 📊 GitHub Analytics
+
+![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akgone38&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akgone38&layout=compact&theme=dark&hide_border=true)
+
+---
+
+📬 **Let's automate your business workflows:** Reach out via [Upwork](https://www.upwork.com/freelancers/~014c8f8e294934ef3b) or drop me an email!
