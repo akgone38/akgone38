@@ -29,4 +29,4 @@ I specialize in building production-grade **Agentic AI systems**, autonomous mul
 
 ---
 
-📬 **Let's automate your business workflows:** Reach out via Whatapp(+91-8757475865) or drop me an email(akgone38@gmail.com)!
+📬 **Let's automate your business workflows:** Reach out via Whatsapp(+91-8757475865) or drop me an email(akgone38@gmail.com)!
